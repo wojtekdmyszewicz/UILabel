@@ -10,4 +10,4 @@ This behavior is supported with Auto-layout on. And by following these steps for
 
 3. For auto height and width you can set the priority of the constraint to level '<b>600</b>' with relation 'Greater than or Equal'.
 
-Github example (I only use a different 'relation' for the bottom constraint in the following example. You could also choose to do this for a different constraint i.e. the trailing constraint in your specific case): https://github.com/wojtekdmyszewicz/UILabel
+Github example (I only use a different 'relation' for the bottom constraint in the following example. You could also choose to do this for a different constraint i.e. the trailing constraint): https://github.com/wojtekdmyszewicz/UILabel
